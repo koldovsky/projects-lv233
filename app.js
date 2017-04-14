@@ -130,7 +130,7 @@ app.service('studentService', ['$q', function ($q) {
             "name": "Ogonovskyi Roman",
             "websiteUrl": "https://inf25znc1.github.io/my_site/",
             "codeSourceUrl": "https://github.com/inf25znc1/my_site",
-            "cvUrl": "",
+            "cvUrl": "https://www.linkedin.com/in/roman-ogonovskyi-9aa984ba/",
             "photo": "images/students/ogonovskyi.jpg"
         },
         {
